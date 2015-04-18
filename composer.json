@@ -1,11 +1,6 @@
 {
 	"name": "Handbid/ApnsPHP",
 	"type": "library",
-    "version": "1.0.0",
-    "dist": {
-        "url": "git@github.com:Handbid/ApnsPHP.git",
-        "type": "git"
-    },
 	"description": "Apple Push Notification & Feedback Provider",
 	"keywords": ["APNS", "apple", "push", "notification"],
 	"homepage": "https://github.com/Handbid/ApnsPHP",
