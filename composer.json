@@ -1,6 +1,7 @@
 {
 	"name": "handbid/php-apns",
 	"type": "library",
+        "version": "v1.0.1-alpha",
 	"description": "Apple Push Notification & Feedback Provider",
 	"keywords": ["APNS", "apple", "push", "notification"],
 	"homepage": "https://github.com/Handbid/php-apns.git",
