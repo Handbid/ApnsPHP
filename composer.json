@@ -1,10 +1,10 @@
 {
-	"name": "duccio/apns-php",
+	"name": "Handbid/apns-php",
 	"type": "library",
 	"description": "Apple Push Notification & Feedback Provider",
 	"keywords": ["APNS", "apple", "push", "notification"],
-	"homepage": "https://github.com/duccio/ApnsPHP",
-	"license": "BSD-3-Clause",
+	"homepage": "https://github.com/Handbid/ApnsPHP",
+	"license": "proprietary",
 	"require": {
 		"php": ">=5.3.0",
 		"lib-openssl": "*"
