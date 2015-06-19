@@ -411,7 +411,7 @@ class ApnsPHP_Message
 		);
 		$nJSONPayloadLen = strlen($sJSONPayload);
                 
-                $this->_sText = is_string($this->_sText)?$this->_sText:  json_encode($this->_sText);
+//                $this->_sText = is_string($this->_sText)?$this->_sText:  json_encode($this->_sText);
                         
 		if ($nJSONPayloadLen > self::PAYLOAD_MAXIMUM_SIZE) {
 			if ($this->_bAutoAdjustLongPayload) {
